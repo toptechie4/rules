@@ -53,9 +53,11 @@ The spirit of a character is the essence of that person. Spirits are always Out 
 ## Resurrection
 
 ---
-A character who has passed their 5 minute **Death** count dissipates, and their spirit will depart to seek **Resurrection**. If the spirit, as an Out-of-Game decision, believes that an ally may come and attempt to **Resurrect** them using the Rank IX Spirit Spell Resurrection, then they may linger for a time. If they do not, then the spirit will depart it’s current location to seek the nearest safe **Shrine of Resurrection.** The knowledge of whether or not a specific Shrine is “Safe” is entirely OOG knowledge, but a Spirit will never **Resurrect** at an unsafe Shrine. When a Spirit **Resurrects**, they will accrue **Strain**, explained below.
+A character who has passed their 5 minute **Death** count dissipates, and their spirit will depart to seek **Resurrection**. Travel time to NPC camp or to find a marshal is included in the 5 Minutes.  When a PCs seeks resurrection, they are not required to go to NPC camp. They must find a Plot Member or Ritual Marshal to have their death recorded on their character sheet. (The Ritual Marshal is obligated to notify a plot member or NPC camp death log at earliest convenience).  The player must come into game from inconspicuous location or ask mod marshal to rejoin a mod.
 
-Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection.
+If the spirit, as an Out-of-Game decision, believes that an ally may come and attempt to resurrect them using the Rank V Spirit spell **Field Resurrection**, then they may linger for a time. While lingering the player should wear a white headband, hold a hand to their forehead, or touching the top of their head with a held item to signify that they are OOG.  If the player does not linger, then the spirit will depart it’s current location to seek the nearest safe Shrine of Resurrection. The knowledge of whether or not a specific Shrine is “Safe” is entirely OOG knowledge, but a Spirit will never Resurrect at an unsafe Shrine. When a Spirit Resurrects, they will accrue Strain, explained below.
+
+Any player may choose to have their character dissipate at any time, for any reason, and then immediately seek resurrection
 
 
 ## Strain
